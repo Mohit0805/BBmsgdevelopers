@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/BBmsgdevelopers/static/css/main.9d9ad9f6.chunk.css",
+    "main.js": "/BBmsgdevelopers/static/js/main.7da5bf3d.chunk.js",
+    "main.js.map": "/BBmsgdevelopers/static/js/main.7da5bf3d.chunk.js.map",
+    "runtime-main.js": "/BBmsgdevelopers/static/js/runtime-main.1e1df631.js",
+    "runtime-main.js.map": "/BBmsgdevelopers/static/js/runtime-main.1e1df631.js.map",
+    "static/css/2.66b7f74f.chunk.css": "/BBmsgdevelopers/static/css/2.66b7f74f.chunk.css",
+    "static/js/2.145ad208.chunk.js": "/BBmsgdevelopers/static/js/2.145ad208.chunk.js",
+    "static/js/2.145ad208.chunk.js.map": "/BBmsgdevelopers/static/js/2.145ad208.chunk.js.map",
+    "index.html": "/BBmsgdevelopers/index.html",
+    "precache-manifest.90b8d2b3b5bad306a00aec39b0f577e0.js": "/BBmsgdevelopers/precache-manifest.90b8d2b3b5bad306a00aec39b0f577e0.js",
+    "service-worker.js": "/BBmsgdevelopers/service-worker.js",
+    "static/css/2.66b7f74f.chunk.css.map": "/BBmsgdevelopers/static/css/2.66b7f74f.chunk.css.map",
+    "static/css/main.9d9ad9f6.chunk.css.map": "/BBmsgdevelopers/static/css/main.9d9ad9f6.chunk.css.map",
+    "static/js/2.145ad208.chunk.js.LICENSE.txt": "/BBmsgdevelopers/static/js/2.145ad208.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/BBmsgdevelopers/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e1df631.js",
+    "static/css/2.66b7f74f.chunk.css",
+    "static/js/2.145ad208.chunk.js",
+    "static/css/main.9d9ad9f6.chunk.css",
+    "static/js/main.7da5bf3d.chunk.js"
+  ]
+}
